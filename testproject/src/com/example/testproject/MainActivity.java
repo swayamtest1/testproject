@@ -11,14 +11,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		int i=0;
-		do
-		{
-		}while(i<10);
 		
-		for(i=0;i<10;i++)
-		{
-		}
 	}
 
 	@Override
