@@ -22,7 +22,7 @@ public class MainActivity extends Activity {
 		{
 			Log.v("Hello", "Message");
 		}
-		Log.v("print static message ","custom message...");
+		Log.v("print static message ","changes from developer side...");
 	}
 
 	@Override
