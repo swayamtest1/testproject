@@ -11,18 +11,14 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		Log.v("print static message ","custom message...");
 		int i=0;
 		do
 		{
-			Log.v("print static message ","custom message...");
 		}while(i<10);
 		
 		for(i=0;i<10;i++)
 		{
-			Log.v("Hello", "Message");
 		}
-		Log.v("print static message ","changes from developer side...");
 	}
 
 	@Override
