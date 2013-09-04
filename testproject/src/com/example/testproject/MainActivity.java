@@ -11,15 +11,6 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		
-		String message="";
-		
-		int i=0;
-		do
-		{
-		}while(i<10);
-		
-		
 	}
 
 	@Override
