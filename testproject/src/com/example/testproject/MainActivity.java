@@ -21,6 +21,7 @@ public class MainActivity extends Activity {
 		for(int i=0;i<10;i++)
 		{
 			Log.v("Hello", "Message");
+			Log.v("Hello", "Message");
 		}
 		
 	}
