@@ -17,6 +17,12 @@ public class MainActivity extends Activity {
 		Log.v("Java file", "File changes...");
 		Log.v("Java file", "File changes...");
 		Log.v("Java file", "File changes...");
+		
+		for(int i=0;i<10;i++)
+		{
+			Log.v("Hello", "Message");
+		}
+		
 	}
 
 	@Override
