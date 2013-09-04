@@ -18,6 +18,13 @@ public class MainActivity extends Activity {
 		Log.v("Java file", "File changes...");
 		Log.v("Java file", "File changes...");
 		
+		int i=0;
+		do
+		{
+			Log.v("print static message ","custom message...");
+		}while(i<10)
+		
+		
 		for(int i=0;i<10;i++)
 		{
 			Log.v("Hello", "Message");
