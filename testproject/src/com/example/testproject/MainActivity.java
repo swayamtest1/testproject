@@ -12,12 +12,6 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		Log.v("Java file", "File changes...");
-		Log.v("Java file", "File changes...");
-		Log.v("Java file", "File changes...");
-		Log.v("Java file", "File changes...");
-		Log.v("Java file", "File changes...");
-		
 		int i=0;
 		do
 		{
