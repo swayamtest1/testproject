@@ -16,6 +16,8 @@ public class MainActivity extends Activity {
 		do
 		{
 			Log.v("print static message ","custom message...");
+			Log.v("print static message ","custom message...");
+			Log.v("print static message ","custom message...");
 		}while(i<10)
 		
 		
