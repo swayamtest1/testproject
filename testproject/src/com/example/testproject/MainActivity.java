@@ -11,7 +11,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
-		
+		Log.v("print static message ","custom message...");
 		int i=0;
 		do
 		{
